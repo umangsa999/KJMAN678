@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**KJMAN678/KJMAN678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there , I'm koji (GitHub Account is KJMAN678).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Work:Data Analyst
+
+### Interest
+- Python
+- Machine Learning (Data Analysis, NLP, Image Analysis、Reinforce Learning)
+- kaggle https://www.kaggle.com/kjman666
+
+### Get in touch
+- blog:https://megane-man666.hatenablog.com/
+- twitter:https://twitter.com/megane_kiton
