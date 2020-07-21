@@ -4,6 +4,8 @@ Here are some ideas to get you started:
 
 - 🔭 Work:Data Analyst
 
+![koji's github stats](https://github-readme-stats.vercel.app/api?username=KJMAN678&show_icons=true&theme=cobalt)
+
 ### Interest
 - Python
 - Machine Learning (Data Analysis, NLP, Image Analysis、Reinforce Learning)
