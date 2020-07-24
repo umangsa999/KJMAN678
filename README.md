@@ -1,5 +1,8 @@
 ### Hi there , I'm koji (GitHub Account is KJMAN678).
 
+[![github](https://img.shields.io/github/followers/KJMAN678?label=Follow%20%40KJMAN678&style=social)](https://github.com/KJMAN678)
+[![twitter](https://img.shields.io/twitter/follow/megane_kiton?style=social)](https://twitter.com/megane_kiton)
+
 Here are some ideas to get you started:
 
 - 🔭 Work:Data Analyst
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 ### Get in touch
 - blog:https://megane-man666.hatenablog.com/
 - twitter:https://twitter.com/megane_kiton
+https://docs.google.com/presentation/d/1LfiQokNfJUqBgGzAAxp8vsim7qlLQoLEhessKdYJlio/edit#slide=id.g8e76c726df_0_1
