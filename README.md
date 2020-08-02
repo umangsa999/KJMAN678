@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - blog:https://megane-man666.hatenablog.com/
 - twitter:https://twitter.com/megane_kiton
 https://docs.google.com/presentation/d/1LfiQokNfJUqBgGzAAxp8vsim7qlLQoLEhessKdYJlio/edit#slide=id.g8e76c726df_0_1
+‐ Speaker Deck https://speakerdeck.com/kjman678
