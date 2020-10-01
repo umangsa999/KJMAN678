@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### Interest
 - Python
-- Machine Learning (Data Analysis, NLP, Image Analysis、Reinforce Learning)
+- Machine Learning (Data Analysis, NLP, Image Analysis,Reinforce Learning)
 - kaggle https://www.kaggle.com/kjman666
 
 ### Get in touch
